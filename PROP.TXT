@@ -1,0 +1,1 @@
+Source Directory=D:\Project\src;Destination Directory=D:\Project\dest;Encrypted File Name=enc_sl;Source File Required=null;Polling Interval=3
